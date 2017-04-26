@@ -66,3 +66,7 @@
     </div>  
 
 <?php include '_footer.php' ?>
+http://fikodominic.blogspot.com/
+http://ghan-noy.blogspot.com/2016/03/jelly-gamat-qnc.html
+http://sakacamprung.blogspot.com/2016/05/jelly-gamat-qnc.html
+http://acemaxscare.com/jelly-gamat-qnc/
